@@ -1,6 +1,6 @@
 Name:		texlive-formal-grammar
 Version:	61955
-Release:	1
+Release:	2
 Summary:	Typeset formal grammars
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/formal-grammar
